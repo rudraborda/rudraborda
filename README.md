@@ -1,6 +1,6 @@
 #  Hi, I'm Rudra Borda
 
- 2nd Year B.Tech CSE Student | Karnavati University, Gandhinagar  
+ 3nd Year B.Tech CSE Student | Karnavati University, Gandhinagar  
  Passionate about Programming & Web Development
 
 
